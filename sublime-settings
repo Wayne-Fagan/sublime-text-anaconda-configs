@@ -10,7 +10,7 @@
     ],
     "anaconda_linter_underlines": true,
     "anaconda_linter_mark_style": "none",
-    "display_signatures": false,
+    "display_signatures": true,
     "disable_anaconda_completion": true,
     "python_interpreter": "/usr/bin/python3"
 }
