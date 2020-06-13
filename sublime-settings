@@ -1,16 +1,9 @@
 {
-    "auto_formatting": true,
-    "autoformat_ignore":
+    "font_size": 10,
+    "ignored_packages":
     [
-        "E501"
+        "Vintage"
     ],
-    "pep8_ignore":
-    [
-        "E501"
-    ],
-    "anaconda_linter_underlines": true,
-    "anaconda_linter_mark_style": "none",
-    "display_signatures": true,
-    "disable_anaconda_completion": true,
-    "python_interpreter": "/usr/bin/python3"
+    "theme": "Adaptive.sublime-theme",
+    "translate_tabs_to_spaces": true,
 }
